@@ -1,5 +1,5 @@
 # Video-Frame-Annotator
-This is a Python program that allows you to view images from a specified directory and save information about them to a text file. This is assuming your file structure is something like 
+This is a Python script that allows you to view images from a specified directory and save information about them to a text file. This is assuming your file structure is something like 
 ```
 x/
 ├── y1/
